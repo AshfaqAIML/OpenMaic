@@ -64,6 +64,17 @@ https://github.com/user-attachments/assets/b4ab35ac-f994-46b1-8957-e82fe87ff0e9
 
 ---
 
+### Why OpenMAIC
+
+| Benefit | Description |
+|---------|-------------|
+| **Personalized Learning at Scale** | Every student receives adaptive instruction tailored to their individual pace, knowledge level, and learning style — powered by real-time AI assessment |
+| **Social & Interactive Learning** | Multi-agent discussions, peer debates, and collaborative activities recreate the social dynamics of a real classroom |
+| **Rapid Course Creation** | Transform any document or topic into a full interactive lesson in minutes — not weeks |
+| **Open Source & Fully Extensible** | Bring your own LLM API keys from OpenAI, Anthropic, Google Gemini, DeepSeek, and customize every aspect |
+
+---
+
 > [!TIP]
 > ### <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openclaw.png" height="28" align="top"/> OpenClaw — Use OpenMAIC from your chat app, zero setup
 >
@@ -643,6 +654,38 @@ Optional config in `~/.openclaw/openclaw.json`:
 - **Web Search** — Agents search the web for up-to-date information during class
 - **i18n** — Interface supports 7 languages: Chinese (Simplified & Traditional), English, Japanese, Russian, Arabic, and Portuguese (Brazil)
 - **Dark Mode** — Easy on the eyes for late-night study sessions
+
+### Validated at Scale
+
+OpenMAIC has been rigorously tested at Tsinghua University with real students across multiple university-level courses, including courses on artificial intelligence and study methodology.
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**700+**
+
+Students Tested
+
+</td>
+<td width="33%" align="center">
+
+**100K+**
+
+Learning Records Analyzed
+
+</td>
+<td width="33%" align="center">
+
+**84.1%**
+
+Student Satisfaction Rate
+
+</td>
+</tr>
+</table>
+
+The results demonstrate that AI-powered multi-agent classrooms can match and even exceed the effectiveness of traditional instruction.
 
 ---
 
